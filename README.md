@@ -1,7 +1,7 @@
 # Salary Analysis in Data Professions
-Репозиторий содерит pet-проект на тему анализа заработной платы в Дата-профессиях, включащий работу с БД (DBeaver, SQlite) и применение инструменитов визуализации (plotly, matplotlib.pyplot, seaborn).<br>
+Репозиторий содержит pet-проект на тему анализа заработной платы в Дата-профессиях, включающий работу с БД (DBeaver, SQlite) и применение инструментов визуализации (plotly, matplotlib.pyplot, seaborn).<br>
 Для анализа данных был взят датасет с сайта Kaggle.com, содержащий информацию о заработной плате в различных областях Data-профессий на 2023 год.<br>
-С проектом можно ознакомиться в удобном формате [презентации](https://github.com/NikitaVarlamov/SQL_salary-analysis/blob/master/presentation.pdf)
+С проектом можно ознакомиться в удобном формате [презентации.](https://github.com/NikitaVarlamov/SQL_salary-analysis/blob/master/presentation.pdf)
 
 ## О датасете
 Набор данных о зарплатах в сфере Data Science содержит 11 столбцов:
